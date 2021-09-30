@@ -30,3 +30,5 @@ http://google.com
 |c&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|java&nbsp;&nbsp;&nbsp;&nbsp;|python|
 |:---|---:|:---:|
 |4.3|4.5|~~3.8~~|
+
+![loverduck](/img/loverduck.jpg)
